@@ -1,0 +1,25 @@
+{
+  "name": "mini-excalidraw-whiteboard-server",
+  "version": "1.0.0",
+  "description": "Backend API for Mini Excalidraw Whiteboard application",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "excalidraw",
+    "whiteboard",
+    "api",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

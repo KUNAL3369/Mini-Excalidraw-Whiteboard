@@ -1,0 +1,3 @@
+# Replace these with your deployed URLs after you deploy
+Frontend: REPLACE_WITH_NETLIFY_URL
+Backend: REPLACE_WITH_RENDER_URL
